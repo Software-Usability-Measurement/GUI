@@ -1,0 +1,10 @@
+J:\Rishabh\GetCoordinates\GetCoordinates\bin\Debug\GetCoordinates.exe.config
+J:\Rishabh\GetCoordinates\GetCoordinates\bin\Debug\GetCoordinates.exe
+J:\Rishabh\GetCoordinates\GetCoordinates\bin\Debug\GetCoordinates.pdb
+J:\Rishabh\GetCoordinates\GetCoordinates\obj\Debug\GetCoordinates.csprojResolveAssemblyReference.cache
+J:\Rishabh\GetCoordinates\GetCoordinates\obj\Debug\GetCoordinates.Form1.resources
+J:\Rishabh\GetCoordinates\GetCoordinates\obj\Debug\GetCoordinates.Properties.Resources.resources
+J:\Rishabh\GetCoordinates\GetCoordinates\obj\Debug\GetCoordinates.csproj.GenerateResource.Cache
+J:\Rishabh\GetCoordinates\GetCoordinates\obj\Debug\GetCoordinates.csproj.CoreCompileInputs.cache
+J:\Rishabh\GetCoordinates\GetCoordinates\obj\Debug\GetCoordinates.exe
+J:\Rishabh\GetCoordinates\GetCoordinates\obj\Debug\GetCoordinates.pdb
